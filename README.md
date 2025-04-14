@@ -1,4 +1,4 @@
-### Anaconda Installation and Environment Management in WSL Ubuntu 24.04
+## Anaconda Installation and Environment Management in WSL Ubuntu 24.04
 
 This guide provides step-by-step instructions to install Anaconda, manage environments, and activate/deactivate them in WSL Ubuntu 24.04.
 
